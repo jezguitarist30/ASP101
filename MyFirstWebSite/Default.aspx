@@ -49,6 +49,10 @@
     <br/>
 
     <h1 style="text-align: left">String vs StringBuilder in C#</h1>
+    <div style="display:block; width: 200px; height: 200px;">
+        
+
+    </div>
     <h1 style="text-align: left">Loopings in C# (While,Do While, For Loop, For Each)</h1>
 
 </body>
