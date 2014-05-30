@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FormGet.aspx.cs" Inherits="MyFirstWebSite.FormGet" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FormGet.aspx.cs" Inherits="MyFirstWebSite.FormGet" EnableViewStateMac="false" %>
 
 <!DOCTYPE html>
 

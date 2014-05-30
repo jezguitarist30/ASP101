@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="QueryString.aspx.cs" Inherits="MyFirstWebSite.QueryString" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="QueryString.aspx.cs" Inherits="MyFirstWebSite.QueryString" EnableViewStateMac="false" %>
 
 <!DOCTYPE html>
 
