@@ -88,12 +88,16 @@
 
         $("#linkstring").click(function(e) {
 
+            e.preventDefault();
+
             $("#divString").slideToggle("slow");
 
         });
 
 
         $("#linksb").click(function (e) {
+
+            e.preventDefault();
 
             $("#divSb").slideToggle("slow");
 
