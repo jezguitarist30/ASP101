@@ -1,0 +1,6 @@
+C:\Users\JEZREEL\Documents\JEZ REEL\GitHub Repositories\Tutorial\Learning ASP.NET\ASP101\MyFirstWebSite\bin\MyFirstWebSite.dll
+C:\Users\JEZREEL\Documents\JEZ REEL\GitHub Repositories\Tutorial\Learning ASP.NET\ASP101\MyFirstWebSite\bin\MyFirstWebSite.pdb
+C:\Users\JEZREEL\Documents\JEZ REEL\GitHub Repositories\Tutorial\Learning ASP.NET\ASP101\MyFirstWebSite\bin\dotless.Core.dll
+C:\Users\JEZREEL\Documents\JEZ REEL\GitHub Repositories\Tutorial\Learning ASP.NET\ASP101\MyFirstWebSite\obj\Debug\MyFirstWebSite.csprojResolveAssemblyReference.cache
+C:\Users\JEZREEL\Documents\JEZ REEL\GitHub Repositories\Tutorial\Learning ASP.NET\ASP101\MyFirstWebSite\obj\Debug\MyFirstWebSite.dll
+C:\Users\JEZREEL\Documents\JEZ REEL\GitHub Repositories\Tutorial\Learning ASP.NET\ASP101\MyFirstWebSite\obj\Debug\MyFirstWebSite.pdb
