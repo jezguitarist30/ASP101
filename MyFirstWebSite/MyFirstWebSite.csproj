@@ -68,6 +68,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="FormGet.aspx" />
     <Content Include="FormPost.aspx" />
+    <Content Include="GridView.aspx" />
     <Content Include="Images\glyphicons-halflings-white.png" />
     <Content Include="Images\glyphicons-halflings.png" />
     <Content Include="PostBack.aspx" />
@@ -126,6 +127,13 @@
     <Compile Include="FormPost.aspx.designer.cs">
       <DependentUpon>FormPost.aspx</DependentUpon>
     </Compile>
+    <Compile Include="GridView.aspx.cs">
+      <DependentUpon>GridView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GridView.aspx.designer.cs">
+      <DependentUpon>GridView.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Main.Master.cs">
       <DependentUpon>Main.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -133,6 +141,7 @@
     <Compile Include="Main.Master.designer.cs">
       <DependentUpon>Main.Master</DependentUpon>
     </Compile>
+    <Compile Include="Model\UserModel.cs" />
     <Compile Include="PostBack.aspx.cs">
       <DependentUpon>PostBack.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
